@@ -236,11 +236,10 @@ NEW_RELIC_LICENSE_KEY=
 ## Screenshots
 
 ### Leaderboard UI
-![UI](<img width="1903" height="908" alt="Screenshot 2026-02-12 122911" src="https://github.com/user-attachments/assets/b54ff861-9285-4421-b2fb-2a9f533b6d85" />)
+![Leaderboard UI](https://github.com/user-attachments/assets/b54ff861-9285-4421-b2fb-2a9f533b6d85)
 
 ### Monitoring Dashboard
-![NewRelic](<img width="1915" height="851" alt="Screenshot 2026-02-12 122841" src="https://github.com/user-attachments/assets/51177953-b854-4720-beeb-bb17bd123681" />)
-
+![New Relic Dashboard](https://github.com/user-attachments/assets/51177953-b854-4720-beeb-bb17bd123681)
 
 ---
 
