@@ -240,7 +240,7 @@ NEW_RELIC_LICENSE_KEY=
 
 ### Monitoring Dashboard
 ![New Relic Dashboard](https://github.com/user-attachments/assets/51177953-b854-4720-beeb-bb17bd123681)
-
+![New Relic Dashboard](https://github.com/user-attachments/assets/422e30f2-b984-49f2-8e88-d4f7ef1b4d89)
 ---
 
 ## Future Improvements
